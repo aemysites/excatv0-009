@@ -41,25 +41,25 @@
 +--------------------------------------------------+--------------------------------------------------+
 | **Cards**                                                                           |
 +--------------------------------------------------+--------------------------------------------------+
-| ![テレビ](./media_category_tv.jpg)                | テレビ                                            |
+| ![生活家電](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690425113129/icon-wash-line.svg) | 生活家電 |
 +--------------------------------------------------+--------------------------------------------------+
-| ![エアコン](./media_category_ac.jpg)              | エアコン                                          |
+| ![空調家電・季節家電](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_298613230/c_lay002_222420163/c_lay002/c_gen003_copy.coreimg.svg/1690426392883/icon-aircon-line.svg) | 空調家電・季節家電 |
 +--------------------------------------------------+--------------------------------------------------+
-| ![冷蔵庫](./media_category_fridge.jpg)            | 冷蔵庫                                            |
+| ![キッチン家電・調理家電](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_1886022412/c_lay002_1405734595/c_lay002/c_gen003_copy_copy.coreimg.svg/1690428125984/icon-range-line.svg) | キッチン家電・調理家電 |
 +--------------------------------------------------+--------------------------------------------------+
-| ![洗濯機](./media_category_wash.jpg)              | 洗濯機                                            |
+| ![AV機器・カメラ](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_787340654/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690428210879/icon-tv-line.svg) | AV機器・カメラ |
 +--------------------------------------------------+--------------------------------------------------+
-| ![調理家電](./media_category_cook.jpg)            | 調理家電                                          |
+| ![美容家電・健康家電](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818/c_lay002_367361825/c_lay002/c_gen003_copy.coreimg.svg/1690428600074/icon-drier-line.svg) | 美容家電・健康家電 |
 +--------------------------------------------------+--------------------------------------------------+
-| ![美容家電](./media_category_beauty.jpg)          | 美容家電                                          |
+| ![電池・モバイルバッテリー・充電器総合](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433875293_c/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690428745763/icon-battery-line.svg) | 電池・モバイルバッテリー・充電器総合 |
 +--------------------------------------------------+--------------------------------------------------+
-| ![生活家電](./media_category_life.jpg)            | 生活家電                                          |
+| ![電話・FAX・インターホン](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433875293/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690429473133/icon-phone-line.svg) | 電話・FAX・インターホン |
 +--------------------------------------------------+--------------------------------------------------+
-| ![照明](./media_category_light.jpg)              | 照明                                              |
+| ![パソコン](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_513964274/c_lay002_910521301/c_lay002/c_gen003_copy_copy.coreimg.svg/1690429773080/icon-notepc-line.svg) | パソコン |
 +--------------------------------------------------+--------------------------------------------------+
-| ![住宅設備](./media_category_housing.jpg)        | 住宅設備                                          |
+| ![カーナビ／カーAV](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_copy_134501138_/c_lay002_1012315094/c_lay002/c_gen003.coreimg.svg/1690429990167/icon-carnavi.svg) | カーナビ／カーAV |
 +--------------------------------------------------+--------------------------------------------------+
-| ![パソコン](./media_category_pc.jpg)              | パソコン                                          |
+| ![住宅設備](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_copy_158003889__1012261437/c_lay002_1679401443/c_lay002/c_gen003.coreimg.svg/1690430049848/icon-home-line.svg) | 住宅設備 |
 +--------------------------------------------------+--------------------------------------------------+
 
 ---
