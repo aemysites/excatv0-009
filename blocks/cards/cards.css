@@ -1,5 +1,5 @@
 .cards {
-  padding: 40px 0;
+  padding: 0;
 }
 
 .cards > ul {
@@ -7,18 +7,23 @@
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 16px;
 }
 
 .cards > ul > li {
   border: none;
-  background-color: white;
+  background-color: transparent;
   text-align: center;
+  transition: transform 0.2s;
+}
+
+.cards > ul > li:hover {
+  transform: translateY(-2px);
 }
 
 .cards .cards-card-body {
-  padding: 10px;
+  padding: 8px 4px;
 }
 
 .cards .cards-card-image {
@@ -26,45 +31,98 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 8px;
 }
 
 .cards > ul > li img {
-  width: 80px;
-  height: 80px;
+  width: 64px;
+  height: 64px;
   object-fit: contain;
-  margin: 0 auto 10px;
+  margin: 0 auto;
 }
 
 .cards > ul > li h3 {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
-  margin: 10px 0;
+  margin: 8px 0 0 0;
+  color: #333;
+  line-height: 1.4;
 }
 
 .cards > ul > li p {
-  font-size: 14px;
+  font-size: 13px;
   line-height: 1.6;
-  color: #333;
-  margin: 10px 0;
+  color: #555;
+  margin: 8px 0;
 }
 
 .cards > ul > li a.button {
-  background-color: #0066cc;
+  background-color: #0066ff;
   color: white;
-  border-radius: 25px;
-  padding: 10px 25px;
-  font-size: 14px;
+  border-radius: 20px;
+  padding: 8px 20px;
+  font-size: 13px;
   display: inline-block;
-  margin-top: 15px;
+  margin-top: 12px;
+  font-weight: 500;
+  transition: background-color 0.2s;
 }
 
 .cards > ul > li a.button:hover {
-  background-color: #0052a3;
+  background-color: #0052cc;
+  text-decoration: none;
 }
 
-/* 3 column layout for recommendation/promo cards on desktop */
+/* Tablet and above - category cards grid */
+@media (width >= 600px) {
+  .cards > ul {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+  }
+
+  .cards > ul > li img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .cards > ul > li h3 {
+    font-size: 14px;
+  }
+}
+
+/* Desktop - 3 column layout for recommendation/promo cards */
 @media (width >= 900px) {
   .cards > ul {
     grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .cards > ul > li {
+    background-color: white;
+    padding: 0;
+  }
+
+  .cards > ul > li img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  .cards .cards-card-body {
+    padding: 20px;
+    text-align: left;
+  }
+
+  .cards > ul > li h3 {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 0 12px 0;
+  }
+
+  .cards > ul > li p {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #666;
   }
 }
