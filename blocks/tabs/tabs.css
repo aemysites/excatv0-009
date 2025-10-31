@@ -1,9 +1,16 @@
+.tabs {
+  border-top: 1px solid #e0e0e0;
+  padding-top: 20px;
+}
+
 .tabs .tabs-list {
   display: flex;
-  gap: 0.5ch;
+  gap: 10px;
   max-width: 100%;
   font-size: var(--body-font-size-xs);
   overflow-x: auto;
+  border-bottom: 2px solid #e0e0e0;
+  margin-bottom: 0;
 }
 
 @media (width >= 600px) {
@@ -21,38 +28,59 @@
 .tabs .tabs-list button {
   flex: 0 0 max-content;
   margin: 0;
-  border: 1px solid #dadada;
+  border: none;
+  border-bottom: 3px solid transparent;
   border-radius: 0;
-  padding: 0.5em;
-  background-color: var(--light-color);
-  color: initial;
-  font-weight: bold;
+  padding: 12px 20px;
+  background-color: transparent;
+  color: #666;
+  font-size: 15px;
+  font-weight: normal;
   line-height: unset;
   text-align: initial;
   text-overflow: unset;
   overflow: unset;
   white-space: unset;
-  transition: background-color 0.2s;
+  transition: color 0.2s, border-color 0.2s;
+  cursor: pointer;
 }
 
 .tabs .tabs-list button p {
   margin: 0;
 }
 
+.tabs .tabs-list button:hover {
+  background-color: transparent;
+  color: #333;
+}
 
 .tabs .tabs-list button[aria-selected='true'] {
-  border-bottom: 1px solid var(--background-color);
-  background-color: var(--background-color);
+  border-bottom-color: #0066cc;
+  background-color: transparent;
+  color: #0066cc;
+  font-weight: 600;
   cursor: initial;
 }
 
 .tabs .tabs-panel {
-  margin-top: -1px;
-  padding: 24px;
-  border: 1px solid #dadada;
+  margin-top: 0;
+  padding: 20px 0;
+  border: none;
   overflow: auto;
 }
 
 .tabs .tabs-panel[aria-hidden='true'] {
   display: none;
+}
+
+.tabs .tabs-panel ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.tabs .tabs-panel li {
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 14px;
 }
