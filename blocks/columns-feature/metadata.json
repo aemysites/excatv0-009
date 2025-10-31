@@ -1,0 +1,50 @@
+{
+  "variantName": "columns-feature",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2025-10-30T08:01:13.830Z",
+  "sourceContext": {
+    "originUrl": "https://letsboing.com/",
+    "originPage": "homepage - feature cards section",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "white",
+    "density": "spacious",
+    "purpose": "feature-showcase",
+    "imagePattern": "large",
+    "textLength": "short"
+  },
+  "contentPattern": {
+    "structure": "image + heading + description",
+    "columnCount": 2,
+    "imageCount": 2,
+    "headingMaxLength": 30,
+    "descriptionMaxLength": 60
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "feature sections",
+      "category showcases",
+      "service highlights",
+      "large promotional cards"
+    ],
+    "notSuitableFor": [
+      "text comparisons",
+      "detailed product specifications",
+      "blog post listings"
+    ],
+    "similarVariants": []
+  },
+  "designTokens": {
+    "primaryColor": "#131313",
+    "backgroundColor": "#ffffff",
+    "fontFamily": "sans-serif",
+    "gap": "24px"
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-10-30T08:01:13.830Z"
+  }
+}

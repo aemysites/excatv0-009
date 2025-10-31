@@ -1,0 +1,51 @@
+{
+  "variantName": "cards-blog",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-10-30T08:01:13.863Z",
+  "sourceContext": {
+    "originUrl": "https://letsboing.com/",
+    "originPage": "homepage - More Boings blog listing section",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "compact",
+    "purpose": "blog-listing",
+    "imagePattern": "grid",
+    "textLength": "medium"
+  },
+  "contentPattern": {
+    "structure": "image + date + title",
+    "cardCount": 8,
+    "imageCount": 8,
+    "hasDate": true,
+    "titleMaxLength": 80
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "blog article listings",
+      "news sections",
+      "content grids",
+      "recent posts"
+    ],
+    "notSuitableFor": [
+      "product catalogs with pricing",
+      "team member profiles",
+      "testimonials"
+    ],
+    "similarVariants": []
+  },
+  "designTokens": {
+    "primaryColor": "#7a2a3b",
+    "backgroundColor": "#ffffff",
+    "fontFamily": "sans-serif",
+    "gridGap": "24px",
+    "minCardWidth": "257px"
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-10-30T08:01:13.863Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "variantName": "carousel-hero",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2025-10-30T08:01:13.796Z",
+  "sourceContext": {
+    "originUrl": "https://letsboing.com/",
+    "originPage": "homepage - hero carousel section",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "hero-banner",
+    "imagePattern": "large",
+    "textLength": "medium"
+  },
+  "contentPattern": {
+    "structure": "image/video + optional text overlay + CTA",
+    "slideCount": 2,
+    "hasVideo": true,
+    "buttonCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "homepage hero sections",
+      "landing page banners",
+      "promotional carousels",
+      "video + image rotation"
+    ],
+    "notSuitableFor": [
+      "small image galleries",
+      "product thumbnails",
+      "text-only carousels"
+    ],
+    "similarVariants": []
+  },
+  "designTokens": {
+    "primaryColor": "#7a2a3b",
+    "backgroundColor": "#f5f3eb",
+    "fontFamily": "sans-serif",
+    "minHeight": "50vw"
+  },
+  "usage": {
+    "pagesUsing": ["/index", "/index"],
+    "reuseCount": 2,
+    "lastUsed": "2025-10-31T07:35:30.000Z"
+  }
+}

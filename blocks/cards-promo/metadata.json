@@ -1,0 +1,52 @@
+{
+  "variantName": "cards-promo",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-10-31T07:35:30.000Z",
+  "sourceContext": {
+    "originUrl": "https://panasonic.jp/",
+    "originPage": "Panasonic Japan homepage - promotional store sections",
+    "blockPosition": "middle-bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light-grey",
+    "density": "spacious",
+    "purpose": "promotional-showcase",
+    "imagePattern": "large",
+    "textLength": "long"
+  },
+  "contentPattern": {
+    "structure": "image + heading + description + CTA",
+    "cardCount": 3,
+    "imageCount": 3,
+    "headingMaxLength": 50,
+    "descriptionMaxLength": 150,
+    "buttonCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "store/service promotions",
+      "feature highlights with CTAs",
+      "marketing sections",
+      "promotional banners"
+    ],
+    "notSuitableFor": [
+      "simple product listings",
+      "blog posts",
+      "navigation menus"
+    ],
+    "similarVariants": []
+  },
+  "designTokens": {
+    "primaryColor": "#000000",
+    "backgroundColor": "#f5f5f5",
+    "fontFamily": "sans-serif",
+    "gridGap": "24px",
+    "minCardWidth": "257px"
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-10-31T07:35:30.000Z"
+  }
+}
