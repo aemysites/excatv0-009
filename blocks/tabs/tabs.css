@@ -1,48 +1,59 @@
 .tabs {
-  border-top: 1px solid #e0e0e0;
-  padding-top: 20px;
+  border-top: 1px solid #ddd;
+  padding-top: 24px;
 }
 
 .tabs .tabs-list {
   display: flex;
-  gap: 10px;
+  gap: 0;
   max-width: 100%;
-  font-size: var(--body-font-size-xs);
+  font-size: 14px;
   overflow-x: auto;
-  border-bottom: 2px solid #e0e0e0;
+  border-bottom: 1px solid #ddd;
   margin-bottom: 0;
+  scrollbar-width: thin;
+}
+
+.tabs .tabs-list::-webkit-scrollbar {
+  height: 4px;
+}
+
+.tabs .tabs-list::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
 }
 
 @media (width >= 600px) {
   .tabs .tabs-list {
-    font-size: var(--body-font-size-s);
+    font-size: 15px;
   }
 }
 
 @media (width >= 900px) {
   .tabs .tabs-list {
-    font-size: var(--body-font-size-m);
+    font-size: 16px;
   }
 }
 
 .tabs .tabs-list button {
-  flex: 0 0 max-content;
+  flex: 0 0 auto;
   margin: 0;
   border: none;
-  border-bottom: 3px solid transparent;
+  border-bottom: 2px solid transparent;
   border-radius: 0;
-  padding: 12px 20px;
+  padding: 14px 24px;
   background-color: transparent;
   color: #666;
-  font-size: 15px;
-  font-weight: normal;
-  line-height: unset;
-  text-align: initial;
-  text-overflow: unset;
-  overflow: unset;
-  white-space: unset;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.4;
+  text-align: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
   transition: color 0.2s, border-color 0.2s;
   cursor: pointer;
+  min-width: 100px;
 }
 
 .tabs .tabs-list button p {
@@ -55,16 +66,16 @@
 }
 
 .tabs .tabs-list button[aria-selected='true'] {
-  border-bottom-color: #0066cc;
+  border-bottom-color: #0066ff;
   background-color: transparent;
-  color: #0066cc;
+  color: #0066ff;
   font-weight: 600;
-  cursor: initial;
+  cursor: default;
 }
 
 .tabs .tabs-panel {
   margin-top: 0;
-  padding: 20px 0;
+  padding: 24px 0;
   border: none;
   overflow: auto;
 }
@@ -80,7 +91,34 @@
 }
 
 .tabs .tabs-panel li {
-  padding: 10px 0;
+  padding: 14px 0;
   border-bottom: 1px solid #f0f0f0;
   font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  transition: background-color 0.2s;
+}
+
+.tabs .tabs-panel li:last-child {
+  border-bottom: none;
+}
+
+.tabs .tabs-panel li:hover {
+  background-color: rgba(0, 102, 255, 0.02);
+}
+
+@media (width >= 900px) {
+  .tabs .tabs-list button {
+    padding: 16px 32px;
+    font-size: 15px;
+  }
+
+  .tabs .tabs-panel {
+    padding: 28px 0;
+  }
+
+  .tabs .tabs-panel li {
+    padding: 16px 0;
+    font-size: 15px;
+  }
 }
