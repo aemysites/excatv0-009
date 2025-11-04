@@ -45,8 +45,8 @@
     "minCardWidth": "257px"
   },
   "usage": {
-    "pagesUsing": ["/index"],
-    "reuseCount": 1,
-    "lastUsed": "2025-10-31T07:35:30.000Z"
+    "pagesUsing": ["/index", "/index"],
+    "reuseCount": 2,
+    "lastUsed": "2025-11-03T12:18:00.000Z"
   }
 }

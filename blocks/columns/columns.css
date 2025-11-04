@@ -127,6 +127,11 @@
     gap: 24px;
   }
 
+  /* Support links - 4 columns */
+  .columns > div.columns-4-cols {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
   .columns img {
     width: 80px;
     height: 80px;
@@ -138,6 +143,28 @@
 
   .columns > div > div p {
     font-size: 14px;
+  }
+
+  /* Support links styling */
+  .columns > div.columns-4-cols > div {
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    padding: 24px 16px;
+    background-color: white;
+    transition: all 0.2s;
+  }
+
+  .columns > div.columns-4-cols > div:hover {
+    background-color: #f8f8f8;
+    border-color: #0066ff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .columns > div.columns-4-cols p {
+    font-size: 15px;
+    font-weight: 600;
+    color: #0066ff;
   }
 
   /* Image + text side by side on desktop */
