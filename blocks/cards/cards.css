@@ -73,9 +73,10 @@
   text-decoration: none;
 }
 
-/* Tablet and above - category cards grid */
+/* Tablet and above - category cards grid (5 columns) */
 @media (width >= 600px) {
-  .cards > ul {
+  /* Product categories section - keep 5 column grid */
+  main > div:nth-of-type(2) .cards > ul {
     grid-template-columns: repeat(5, 1fr);
     gap: 20px;
   }
@@ -85,42 +86,54 @@
     height: 80px;
   }
 
-  .cards > ul > li h3 {
+  .cards > ul > li h3,
+  .cards > ul > li p {
     font-size: 14px;
   }
 }
 
-/* Desktop - 3 column layout for recommendation/promo cards */
+/* Desktop - different layouts based on context */
 @media (width >= 900px) {
-  .cards > ul {
+  /* Product categories section - 5 columns */
+  main > div:nth-of-type(2) .cards > ul {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 24px;
+  }
+
+  /* Recommendations section - 3 columns with full images */
+  main > div:nth-of-type(3) .cards > ul {
     grid-template-columns: repeat(3, 1fr);
     gap: 24px;
   }
 
-  .cards > ul > li {
+  main > div:nth-of-type(3) .cards > ul > li {
     background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    overflow: hidden;
+    text-align: left;
     padding: 0;
   }
 
-  .cards > ul > li img {
+  main > div:nth-of-type(3) .cards > ul > li img {
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
     object-fit: cover;
   }
 
-  .cards .cards-card-body {
+  main > div:nth-of-type(3) .cards .cards-card-body {
     padding: 20px;
     text-align: left;
   }
 
-  .cards > ul > li h3 {
-    font-size: 18px;
+  main > div:nth-of-type(3) .cards > ul > li h3 {
+    font-size: 16px;
     font-weight: 700;
     margin: 0 0 12px 0;
   }
 
-  .cards > ul > li p {
+  main > div:nth-of-type(3) .cards > ul > li p {
     font-size: 14px;
     line-height: 1.7;
     color: #666;

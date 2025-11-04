@@ -1,227 +1,213 @@
 <!-- source: https://panasonic.jp/ -->
 
 +------------------------------+
-| Section Metadata             |
+| Metadata                     |
 +------------------+-----------+
-| style            | white     |
+| language         | ja        |
 +------------------+-----------+
 
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| **Carousel**                                                                                                                            |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| ![私たちは問い続ける。 Panasonic Quality SINCE 1918](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1690165039790/c_gen003_copy.coreimg.jpeg/1761712496873/2510-pc-1.jpeg) | ## Panasonic Quality |
-|                                                                    |                                                                    |
-|                                                                    | 私たちは問い続ける。 Panasonic Quality SINCE 1918                     |
-|                                                                    |                                                                    |
-|                                                                    | **[詳しく見る](https://panasonic.jp/quality/)**                     |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| ![わたしにも、ふたりにも、心地よく。](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1692254958118/c_gen003_copy_copy_c.coreimg.jpeg/1761712510420/2510-pc-2.jpeg) | ## くらし特集 |
-|                                                                    |                                                                    |
-|                                                                    | わたしにも、ふたりにも、心地よく。                                      |
-|                                                                    |                                                                    |
-|                                                                    | **[詳しく見る](https://panasonic.jp/life/)**                        |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| ![新米も古米もおいしい炊飯器](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1687940204640/c_gen003_copy_524298892.coreimg.jpeg/1761532494077/2510-pc-3.jpeg) | ## 炊飯器 SR-X910D |
-|                                                                    |                                                                    |
-|                                                                    | 新米も古米もおいしい炊飯器 可変圧力IHジャー炊飯器 SR-X910D                 |
-|                                                                    |                                                                    |
-|                                                                    | **[詳しく見る](https://panasonic.jp/suihan/)**                      |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| ![その感動を、もっと大きく。有機ELテレビ Z95B](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1687940202497/c_gen003.coreimg.jpeg/1761532557162/2510-pc-4.jpeg) | ## 有機ELテレビ Z95B |
-|                                                                    |                                                                    |
-|                                                                    | その感動を、もっと大きく。有機ELテレビ Z95B                               |
-|                                                                    |                                                                    |
-|                                                                    | **[詳しく見る](https://panasonic.jp/viera/)**                       |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| ![設置スペースはコンパクトに。冷凍冷蔵庫](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1690165079764/c_gen003_copy.coreimg.jpeg/1761532702792/2510-pc-5.jpeg) | ## 冷凍冷蔵庫 NR-F55HY2 |
-|                                                                    |                                                                    |
-|                                                                    | 設置スペースはコンパクトに。冷凍冷蔵庫                                    |
-|                                                                    |                                                                    |
-|                                                                    | **[詳しく見る](https://panasonic.jp/reizo/)**                       |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
++------------------------------+
+| Section Metadata             |
++------------------+-----------+
+| style            | light     |
++------------------+-----------+
+
++-------------------------------------------------------------------+--------------------------------------------------------------+
+| **Carousel**                                                                                                                                     |
++-------------------------------------------------------------------+--------------------------------------------------------------+
+| ![Panasonic Quality](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1690165039790/c_gen003_copy.coreimg.jpeg/1761712496873/2510-pc-1.jpeg) | ## Panasonic Quality SINCE 1918<br><br>**[View Details](https://panasonic.jp/quality/?utm_campaign=ptop-mv)** |
++-------------------------------------------------------------------+--------------------------------------------------------------+
+| ![Comfortable Living](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1692254958118/c_gen003_copy_copy_c.coreimg.jpeg/1761712510420/2510-pc-2.jpeg) | ## Comfortable for Everyone<br><br>**[View Details](https://panasonic.jp/life/special_12.html?utm_campaign=ptop-mv)** |
++-------------------------------------------------------------------+--------------------------------------------------------------+
+| ![Rice Cooker](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1687940204640/c_gen003_copy_524298892.coreimg.jpeg/1761532494077/2510-pc-3.jpeg) | ## Variable Pressure IH Rice Cooker SR-X910D<br><br>**[View Details](https://panasonic.jp/suihan/products/SR-X910D.html?utm_campaign=ptop-mv)** |
++-------------------------------------------------------------------+--------------------------------------------------------------+
+| ![OLED TV](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1687940202497/c_gen003.coreimg.jpeg/1761532557162/2510-pc-4.jpeg) | ## Even Greater Excitement - OLED TV Z95B<br><br>**[View Details](https://panasonic.jp/viera/Z95B.html?utm_campaign=ptop-mv)** |
++-------------------------------------------------------------------+--------------------------------------------------------------+
+| ![Refrigerator](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay002_copy_copy/c_lay003_copy_copy_c/item_1690165079764/c_gen003_copy.coreimg.jpeg/1761532702792/2510-pc-5.jpeg) | ## Compact Big Series Refrigerator NR-F55HY2<br><br>**[View Details](https://panasonic.jp/reizo/products/NR-F55HY2.html?utm_campaign=ptop-mv)** |
++-------------------------------------------------------------------+--------------------------------------------------------------+
 
 ---
 
 +------------------------------+
 | Section Metadata             |
 +------------------+-----------+
-| style            | white     |
+| style            | light     |
 +------------------+-----------+
 
-## 商品を選ぶ
+## Choose Your Product
 
-+--------------------------------------------------+--------------------------------------------------+
-| **Columns**                                                                         |
-+--------------------------------------------------+--------------------------------------------------+
-| ![生活家電](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690425113129/icon-wash-line.svg) | ![空調家電・季節家電](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_298613230/c_lay002_222420163/c_lay002/c_gen003_copy.coreimg.svg/1690426392883/icon-aircon-line.svg) |
-|                                                  |                                                  |
-| 生活家電                                          | 空調家電・季節家電                                  |
-+--------------------------------------------------+--------------------------------------------------+
-| ![キッチン家電・調理家電](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_1886022412/c_lay002_1405734595/c_lay002/c_gen003_copy_copy.coreimg.svg/1690428125984/icon-range-line.svg) | ![AV機器・カメラ](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_787340654/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690428210879/icon-tv-line.svg) |
-|                                                  |                                                  |
-| キッチン家電・調理家電                              | AV機器・カメラ                                      |
-+--------------------------------------------------+--------------------------------------------------+
-| ![美容家電・健康家電](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818/c_lay002_367361825/c_lay002/c_gen003_copy.coreimg.svg/1690428600074/icon-drier-line.svg) | ![電池・モバイルバッテリー・充電器総合](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433875293_c/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690428745763/icon-battery-line.svg) |
-|                                                  |                                                  |
-| 美容家電・健康家電                                  | 電池・モバイルバッテリー・充電器総合                    |
-+--------------------------------------------------+--------------------------------------------------+
-| ![電話・FAX・インターホン](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433875293/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690429473133/icon-phone-line.svg) | ![パソコン](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_513964274/c_lay002_910521301/c_lay002/c_gen003_copy_copy.coreimg.svg/1690429773080/icon-notepc-line.svg) |
-|                                                  |                                                  |
-| 電話・FAX・インターホン                              | パソコン                                            |
-+--------------------------------------------------+--------------------------------------------------+
-| ![カーナビ／カーAV](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_copy_134501138_/c_lay002_1012315094/c_lay002/c_gen003.coreimg.svg/1690429990167/icon-carnavi.svg) | ![住宅設備](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_copy_158003889__1012261437/c_lay002_1679401443/c_lay002/c_gen003.coreimg.svg/1690430049848/icon-home-line.svg) |
-|                                                  |                                                  |
-| **[カーナビ／カーAV](https://panasonic.jp/car/)** | **[住宅設備](https://sumai.panasonic.jp/)**       |
-+--------------------------------------------------+--------------------------------------------------+
++-----------------------------------------------------+-----------------------------------------------------+
+| **Cards**                                                                                                 |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![appliance](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690425113129/icon-wash-line.svg) | Home Appliances |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![air](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_298613230/c_lay002_222420163/c_lay002/c_gen003_copy.coreimg.svg/1690426392883/icon-aircon-line.svg) | Air Conditioners & Seasonal |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![kitchen](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_1886022412/c_lay002_1405734595/c_lay002/c_gen003_copy_copy.coreimg.svg/1690428125984/icon-range-line.svg) | Kitchen Appliances |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![digital](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_787340654/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690428210879/icon-tv-line.svg) | AV Equipment & Cameras |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![wellness](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818/c_lay002_367361825/c_lay002/c_gen003_copy.coreimg.svg/1690428600074/icon-drier-line.svg) | Beauty & Health |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![battery](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433875293_c/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690428745763/icon-battery-line.svg) | Batteries & Chargers |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![phone](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433875293/c_lay002/c_lay002_copy/c_gen003_copy_copy.coreimg.svg/1690429473133/icon-phone-line.svg) | Phone & Intercom |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![pc](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_1681433869818_c_513964274/c_lay002_910521301/c_lay002/c_gen003_copy_copy.coreimg.svg/1690429773080/icon-notepc-line.svg) | Computers |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![car](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_copy_134501138_/c_lay002_1012315094/c_lay002/c_gen003.coreimg.svg/1690429990167/icon-carnavi.svg) | **[Car Navigation](https://panasonic.jp/car/)** |
++-----------------------------------------------------+-----------------------------------------------------+
+| ![housing](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_196392464_c/item_copy_158003889__1012261437/c_lay002_1679401443/c_lay002/c_gen003.coreimg.svg/1690430049848/icon-home-line.svg) | **[Housing Equipment](https://sumai.panasonic.jp/)** |
++-----------------------------------------------------+-----------------------------------------------------+
 
-- **[自転車](https://cycle.panasonic.com/)**
-- **[補聴器](https://panasonic.jp/hochouki/)**
-- **[Tourist Models](https://panasonic.jp/tourist/en/)**
-- その他商品
-- **[Panasonic Quality](https://panasonic.jp/quality/)**
+**[Bicycle](https://cycle.panasonic.com/)**
+
+**[Hearing Aids](https://panasonic.jp/hochouki/)**
+
+**[Tourist Models](https://panasonic.jp/tourist/en/)**
+
+**[Other Products](#)**
+
+**[Panasonic Quality](https://panasonic.jp/quality/)**
 
 ---
 
 +------------------------------+
 | Section Metadata             |
 +------------------+-----------+
-| style            | white     |
+| style            | light     |
 +------------------+-----------+
 
-## レコメンド
+## Recommendations
 
-+-----------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| **Cards**                                                                                                                                                                                                 |
-+-----------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![小型充電式電池の正しい捨て方](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_458118269_c/item_copy/c_gen003.coreimg.jpeg/1761532308741/rec-2510-1.jpeg) | ### 小型充電式電池の正しい捨て方                                                                                                  |
-|                                                                                                                             |                                                                                                                             |
-|                                                                                                                             | 充電式の家電製品に内蔵されている小型充電式電池は、適切にリサイクルすることが法律で定められています。小型充電式電池が使われている製品の例や、正しい廃棄方法についてご紹介します。 |
-+-----------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![エオリアアプリが支持される秘密](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_458118269_c/item_1687941285946/c_gen003_copy.coreimg.jpeg/1761532286674/rec-2510-2.jpeg) | ### エオリアアプリが支持される秘密                                                                                              |
-|                                                                                                                             |                                                                                                                             |
-|                                                                                                                             | エアコンの操作をより快適にし、くらしに寄り添う「エオリアアプリ」。リモコンを超えた価値提供にこだわり、ユーザー起点で開発を担っているソフトウェアエンジニアに、難しさややりがいについて聞きました。 |
-+-----------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![自宅でカンタン絶品焼き芋の作り方](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_458118269_c/item_1687941285950_c/c_gen003_copy_copy.coreimg.jpeg/1761532390633/rec-2510-3.jpeg) | ### 自宅でカンタン絶品焼き芋の作り方                                                                                            |
-|                                                                                                                             |                                                                                                                             |
-|                                                                                                                             | スーパーなどで通年目にすることの多いさつまいもですが、さつまいもにも旬があります。この記事では、さつまいもの旬や種類の違い、そして専門店のような美味しい焼き芋の作り方をご紹介します。 |
-+-----------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
++---------------------------------------------------------------+---------------------------------------------------------------+
+| **Cards**                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------+
+| ![Battery Recycling](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_458118269_c/item_copy/c_gen003.coreimg.jpeg/1761532308741/rec-2510-1.jpeg) | **Proper Disposal of Rechargeable Batteries**<br><br>Rechargeable batteries built into appliances must be properly recycled according to law. Learn about products that use rechargeable batteries and proper disposal methods.<br><br>**[Learn More](https://panasonic.jp/support/useful/battery_recycle.html?utm_campaign=ptop-recommend)** |
++---------------------------------------------------------------+---------------------------------------------------------------+
+| ![Eolia App](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_458118269_c/item_1687941285946/c_gen003_copy.coreimg.jpeg/1761532286674/rec-2510-2.jpeg) | **The Secret Behind Eolia App Success**<br><br>The Eolia App makes air conditioner operation more comfortable and fits into your lifestyle. Software engineers share the challenges and rewards of developing this user-focused solution.<br><br>**[Learn More](https://makenew.panasonic.jp/magazine/articles/145/?utm_source=product_toppage&utm_medium=referral)** |
++---------------------------------------------------------------+---------------------------------------------------------------+
+| ![Sweet Potato](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_458118269_c/item_1687941285950_c/c_gen003_copy_copy.coreimg.jpeg/1761532390633/rec-2510-3.jpeg) | **Easy Delicious Baked Sweet Potato at Home**<br><br>Sweet potatoes are available year-round, but they have their peak season. Learn about sweet potato varieties and how to make delicious baked sweet potatoes like specialty shops.<br><br>**[Learn More](https://panasonic.jp/life/food/110091.html?utm_campaign=ptop-recommend)** |
++---------------------------------------------------------------+---------------------------------------------------------------+
 
-**[キャンペーン一覧](https://panasonic.jp/campaign/)**
+**[View All Campaigns](/campaign/)**
 
 ---
 
 +------------------------------+
 | Section Metadata             |
 +------------------+-----------+
-| style            | white     |
+| style            | light     |
 +------------------+-----------+
 
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| **Columns**                                                                                                                                                                                             |
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| ![快適で便利なくらしをサポートするパナソニックの店](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_483754143_c/c_lay011/c_gen003_copy_copy.coreimg.jpeg/1760498876739/omise-pc.jpeg) | ### 快適で便利なくらしをサポートするパナソニックの店 |
-|                                                                                                                                   |                                                                                                                                   |
-|                                                                                                                                   | 全国各地に15000店あるパナソニックの店は、みなさまの一番近くで、 快適で便利なくらしをサポートする「家電のホームドクター」です。 お困りのときはいつでもご相談ください。 |
-|                                                                                                                                   |                                                                                                                                   |
-|                                                                                                                                   | **[詳しく見る](https://ps-hp.jpn.panasonic.com/ps/)**                                                                            |
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------+
+| **Hero**                           |
++------------------------------------+
+| ![Panasonic Stores](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_483754143_c/c_lay011/c_gen003_copy_copy.coreimg.jpeg/1760498876739/omise-pc.jpeg) |
++------------------------------------+
+| ### **Panasonic Stores Supporting Comfortable Living**<br><br>With 15,000 Panasonic stores nationwide, we are your closest "Home Appliance Doctor" supporting comfortable and convenient living. Contact us anytime you need help.<br><br>**[Learn More](https://ps-hp.jpn.panasonic.com/ps/)** |
++------------------------------------+
 
 ---
 
 +------------------------------+
 | Section Metadata             |
 +------------------+-----------+
-| style            | light-grey|
+| style            | light     |
 +------------------+-----------+
 
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| **Columns**                                                                                                                                                                                             |
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| ![パナソニック公式オンラインストア](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_483754143_c_63332248/c_lay011/c_gen003.coreimg.jpeg/1745392986027/store-pc.jpeg) | ### パナソニック公式オンラインストア                                                                                                  |
-|                                                                                                                                   |                                                                                                                                   |
-|                                                                                                                                   | 家電製品や消耗品・別売品をはじめ、検査済み再生品、 オンラインストアモデルや定額利用サービスなど、オンラインストアならではの 商品やサービスをご用意しています。 |
-|                                                                                                                                   |                                                                                                                                   |
-|                                                                                                                                   | **[詳しく見る](https://panasonic.jp/store/)**                                                                                     |
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------+
+| **Hero**                           |
++------------------------------------+
+| ![Panasonic Official Online Store](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_483754143_c_63332248/c_lay011/c_gen003.coreimg.jpeg/1745392986027/store-pc.jpeg) |
++------------------------------------+
+| ### **Panasonic Official Online Store**<br><br>We offer home appliances, consumables, accessories, inspected refurbished products, online store exclusive models, and subscription services unique to our online store.<br><br>**[Learn More](https://panasonic.jp/store/)** |
++------------------------------------+
 
 ---
 
 +------------------------------+
 | Section Metadata             |
 +------------------+-----------+
-| style            | white     |
+| style            | light     |
 +------------------+-----------+
 
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| **Columns**                                                                                                                                                                                             |
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| ![サポート総合窓口](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_483754143_c_1652233082/c_lay011/c_gen003.coreimg.jpeg/1745393392634/support-pc.jpeg) | ### サポート総合窓口                                                                                                                |
-|                                                                                                                                   |                                                                                                                                   |
-|                                                                                                                                   | 商品についてのお困りごとの総合窓口です。修理のご相談・お申込み方法、カタログや取扱説明書などをご紹介します。                                         |
-|                                                                                                                                   |                                                                                                                                   |
-|                                                                                                                                   | **[詳しく見る](https://panasonic.jp/support/)**                                                                                   |
-|                                                                                                                                   |                                                                                                                                   |
-|                                                                                                                                   | - **[よくあるご質問](https://panasonic.jp/support/faq.html)**                                                                      |
-|                                                                                                                                   | - **[最新カタログを見る](https://panasonic.jp/catalog.html)**                                                                      |
-|                                                                                                                                   | - **[取扱説明書を見る](https://panasonic.jp/support/manual.html)**                                                                |
-|                                                                                                                                   | - **[修理のご相談・お申込み](https://panasonic.jp/support/repair.html)**                                                          |
-+-----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+### **Customer Support Center**
+
+Your one-stop center for product inquiries. Find repair consultations, application methods, catalogs, and instruction manuals.
+
+**[Learn More](/support/)**
+
++----------------------+----------------------+----------------------+----------------------+
+| **Columns**                                                                                 |
++----------------------+----------------------+----------------------+----------------------+
+| **[FAQ](/support/faq.html)** | **[View Catalogs](/catalog.html)** | **[View Manuals](/support/manual.html)** | **[Repair Consultation](/support/repair.html)** |
++----------------------+----------------------+----------------------+----------------------+
 
 ---
 
 +------------------------------+
 | Section Metadata             |
 +------------------+-----------+
-| style            | light-grey|
+| style            | light     |
 +------------------+-----------+
 
-### 重要なお知らせ
+### **Important Notices**
 
-- **[1985年から1992年製のナショナルFF式石油暖房器を探しています](https://www.panasonic.com/jp/about/product_information/c/0810.html)**
-- **[災害時における家電製品などのお取り扱いについて](https://panasonic.jp/support/useful.html#saigai)**
+**[Looking for National FF Oil Heaters Made 1985-1992](https://www.panasonic.com/jp/about/product_information/c/0810.html)**
 
-**[商品に関する大切なお知らせ](https://holdings.panasonic/jp/corporate/about/products-information.html)**
+**[Handling Home Appliances During Disasters](/support/useful.html#saigai)**
+
+**[Important Product Notices](https://holdings.panasonic/jp/corporate/about/products-information.html)**
 
 ---
 
 +------------------------------+
 | Section Metadata             |
 +------------------+-----------+
-| style            | white     |
+| style            | light     |
 +------------------+-----------+
 
-## 最新情報
-
-+------------------------------------------------------------------------------+
-| **Tabs**                                                                     |
-+-------------------+----------------------------------------------------------+
-| 新着情報           | - 2025年10月29日 **[小型充電式電池の正しい捨て方](https://panasonic.jp/whatsnew/news_parts/251029_1.html)** |
-|                   | - 2025年10月29日 **[【冷蔵庫】コンパクトキッチンにもすっきり収まる。奥行うす型63㎝ NR-FVF45S3 11月下旬発売予定](https://panasonic.jp/whatsnew/news_parts/251029.html)** |
-|                   | - 2025年10月21日 **[【エアコン】２５年冬 まとめ買いでお得プレゼントキャンペーン](https://panasonic.jp/whatsnew/news_parts/251021.html)** |
-|                   | - 2025年10月3日 **[【掃除機】本体軽量、さらに掃除性能も兼ね揃えた日本製 紙パック式キャニスター掃除機 MC-JP890K 10月下旬発売予定](https://panasonic.jp/whatsnew/news_parts/251003_2.html)** |
-|                   | - 2025年10月3日 **[【掃除機】パワフルな吸引力が長く続く日本製 サイクロン式キャニスター掃除機 MC-SR640K 10月下旬発売予定](https://panasonic.jp/whatsnew/news_parts/251003_1.html)** |
-+-------------------+----------------------------------------------------------+
-| お知らせ           | - 2025年10月28日 新製品発表に関するお知らせ                    |
-|                   | - 2025年10月25日 キャンペーン実施のご案内                      |
-|                   | - 2025年10月20日 展示会出展のお知らせ                          |
-+-------------------+----------------------------------------------------------+
-| サポート           | - 2025年10月15日 延長保証サービス拡充                          |
-|                   | - 2025年10月10日 オンライン相談サービス開始                    |
-|                   | - 2025年10月01日 配送サービス改善のお知らせ                    |
-+-------------------+----------------------------------------------------------+
-| Panasonic Store Plus | - 2025年10月25日 秋の大感謝祭開催中                        |
-|                   | - 2025年10月15日 会員限定ポイントアップ                        |
-|                   | - 2025年10月08日 下取りキャンペーン実施中                      |
-+-------------------+----------------------------------------------------------+
-| CLUB Panasonic    | - 2025年10月20日 会員特典情報更新                              |
-|                   | - 2025年10月12日 ポイント交換商品追加                          |
-|                   | - 2025年10月05日 アプリ機能改善のお知らせ                      |
-+-------------------+----------------------------------------------------------+
-
-- **[新着情報](https://panasonic.jp/whatsnew.html)**
-- **[ニュースリリース一覧](https://news.panasonic.com/jp/)**
-- **[トピックス一覧](https://panasonic.jp/topics/)**
-
-**[パナソニックを名乗る企業等についてご注意ください](https://holdings.panasonic/jp/information/announcement.html)**
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| **Tabs**                                                                                                                                                      |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| What's New                     | **Oct 29, 2025**<br>**[Proper Disposal of Rechargeable Batteries](/whatsnew/news_parts/251029_1.html)**<br><br>**Oct 29, 2025**<br>**[Refrigerator - Compact 63cm Depth NR-FVF45S3 Available Late November](/whatsnew/news_parts/251029.html)**<br><br>**Oct 21, 2025**<br>**[Air Conditioner - 2025 Winter Bulk Purchase Campaign](/whatsnew/news_parts/251021.html)**<br><br>**Oct 3, 2025**<br>**[Vacuum Cleaner - Lightweight Paper Pack MC-JP890K Available Late October](/whatsnew/news_parts/251003_2.html)**<br><br>**Oct 3, 2025**<br>**[Vacuum Cleaner - Powerful Cyclone MC-SR640K Available Late October](/whatsnew/news_parts/251003_1.html)**<br><br>**Oct 3, 2025**<br>**[Vacuum Cleaner - Easy Maintenance Cyclone MC-SR44K Available Late October](/whatsnew/news_parts/251003.html)**<br><br>**Oct 1, 2025**<br>**[Refrigerator - 180L Personal Refrigerator NR-B18C3 Available Late November](/whatsnew/news_parts/251001_2.html)**<br><br>**Oct 1, 2025**<br>**[Refrigerator - 156L Personal Refrigerator NR-B16C3 Available Late November](/whatsnew/news_parts/251001_1.html)**<br><br>**Sep 24, 2025**<br>**[Shower Head - Fine Bubble Shower Head EH-SH50 Available Early November](/whatsnew/news_parts/250924_4.html)**<br><br>**Sep 24, 2025**<br>**[Face Care - Multi Steamer EH-SB50 Available Early November](/whatsnew/news_parts/250924_3.html)** |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Announcements                  | **Oct 30, 2025**<br>**[CLUB Panasonic ID Login Issue Resolved](/whatsnew/asking_parts/251030_1.html)**<br><br>**Oct 30, 2025**<br>**[CLUB Panasonic ID Login Difficulty Notice](/whatsnew/asking_parts/251030.html)**<br><br>**Oct 29, 2025**<br>**[Proper Battery Disposal](/whatsnew/asking_parts/251029.html)** |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Support                        | **Oct 9, 2025**<br>**[Special Repair Support for Typhoon 22 Disaster](/support/information/20251009.html)**<br><br>**Sep 16, 2025**<br>**[Special Repair Support for September Heavy Rain](/support/information/20250916.html)** |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Store Plus                     | **Oct 30, 2025**<br>**[CLUB Panasonic ID Login Issue Resolved](/store/information/notice/20251030.html)**<br><br>**Jul 31, 2025**<br>**[Payment Service Termination Notice](/store/information/notice/20250731.html)** |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| CLUB Panasonic                 | **Oct 30, 2025**<br>**[Noto Earthquake Donation Deadline Nov 27](/membership/info/20251030.html)**<br><br>**Oct 30, 2025**<br>**[CLUB Panasonic ID Login Issue Resolved](/membership/info/202510201.html)** |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------+
 
 ---
+
++------------------------------+
+| Section Metadata             |
++------------------+-----------+
+| style            | light     |
++------------------+-----------+
+
+**[News Releases](https://news.panasonic.com/jp/)**
+
+**[Topics](https://panasonic.jp/topics/)**
+
+**[Caution About Companies Claiming to be Panasonic](https://holdings.panasonic/jp/information/announcement.html)**
+
+---
+
++------------------------------+
+| Section Metadata             |
++------------------+-----------+
+| style            | accent    |
++------------------+-----------+
+
++------------------------------------+
+| **Hero**                           |
++------------------------------------+
+| ![CLUB Panasonic](https://panasonic.jp/content/panasonic/jp/ja/top/_jcr_content/root/main/componentContainer1/c_lay001_74519150/item/c_lay002/c_gen003.coreimg.png/1688520861263/pc-clubp.png) |
++------------------------------------+
+| **[Learn More About CLUB Panasonic](https://club.panasonic.jp/)** |
++------------------------------------+

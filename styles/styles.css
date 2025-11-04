@@ -11,17 +11,19 @@
  */
 
 :root {
-  /* colors */
+  /* Panasonic colors */
   --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  --light-color: #f5f5f5;
+  --dark-color: #333333;
+  --text-color: #333333;
+  --link-color: #0062cc;
+  --link-hover-color: #004a99;
+  --accent-color: #0062cc;
+  --border-color: #e0e0e0;
 
   /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
+  --body-font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  --heading-font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
 
   /* body sizes */
   --body-font-size-m: 22px;
@@ -259,4 +261,39 @@ main .section.highlight {
 
 .section.hidden {
   display: none;
+}
+
+/* Panasonic specific styles */
+main .section.accent {
+  background-color: #e8f4ff;
+  margin: 0;
+  padding: 40px 0;
+}
+
+/* Adjust font sizes for Japanese content */
+body {
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Responsive adjustments */
+@media (width >= 900px) {
+  body {
+    font-size: 16px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
 }
